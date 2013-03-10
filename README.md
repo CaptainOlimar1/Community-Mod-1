@@ -59,3 +59,6 @@ The Technicraft Wiki gives you information on Technicraft like crafting recipes 
 Sciguy1121 is the person responsible for setting up Technicraft. 
 [Click Here](http://youtube.com/user/sciguy1121)
 
+####Technicraft IRC
+Currently running on this site: http://webchat.esper.net/
+Just put in a username, and log in to the channel #Technicraft. Status: Online
